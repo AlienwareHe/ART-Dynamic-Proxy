@@ -1,0 +1,3 @@
+include ':vproxy'
+include ':sample'
+rootProject.name = "ART-Dynamic-Proxy"
